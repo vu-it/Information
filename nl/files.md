@@ -132,7 +132,8 @@ Voordelen van Cloud Backup:
 Nadelen van Cloud Backup:
 
 * De VU biedt geen voorziening aan voor cloud backups
-* De bestanden staan bij een derde partij, en kunnen mogleijk opgevraagd worden door één of andere instantie
+* De bestanden staan bij een derde partij, en kunnen mogelijk opgevraagd worden door één of andere instantie
+
 Veiligheid
 ----------
 
