@@ -3,7 +3,7 @@ In deze repository houden we documentatie bij voor de Mac werkplek op de VU. Gep
 - [ ] Email
 - [ ] Beveiliging
 - [x] Bestanden
-- [ ] Backup
+- [x] Backup
 - [ ] Windows Applicaties op de Mac
 - [ ] Printen
 - [ ] Netwerk toegang
