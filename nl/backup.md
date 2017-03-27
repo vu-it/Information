@@ -1,5 +1,5 @@
 Backup van de Mac werkplek
-============================
+==========================
 
 Hoewel moderne data opslag heel goed is, is opslag van bestanden op je Mac niet betrouwbaar: door een technisch probleem of beschadiging van de computer kun je bestanden kwijtraken. Ook bij diefstal van je apparaat ben je de lokale data kwijt. Om er voor te zorgen dat je geen data kwijtraakt adviseren we om regelmatig -het liefst automatisch- backups te maken. Dit document beschrijft de mogelijkheden die er op dit moment zijn.
 

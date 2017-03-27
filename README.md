@@ -1,4 +1,14 @@
-In deze repository houden we documentatie bij voor de Mac werkplek op de VU. Gepland staan de volgende onderwerpen:
+In deze repository houden we documentatie bij voor de Mac werkplek op de VU. Deze documentatie kan als basis dienen voor de 'Procucten en Diensten Catalogus' en gebruikershandleidingen.
+
+Documentatie nederlands
+-----------------------
+
+- [Bestanden op de Mac werkplek](nl/files.md)
+- [Backup van de Mac werkplek](nl/backup.md)
+
+
+Onderwerpen checklist
+---------------------
 
 - [ ] Email
 - [ ] Beveiliging
