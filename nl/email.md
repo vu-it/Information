@@ -4,7 +4,9 @@ Email,kalender en Contacten op de Mac werkplek
 De VU biedt faciliteiten aan voor Email,kalender en Contacten, de zogenaamde Exchange omgeving. Deze diensten zijn te gebruiken op u Mac werkplek.
 
 waaronder
-* Afwezigheid boodschap instellen
+* Email lezen en versturen
+* afspraken plannen en gewaarschuwd worden waneer een afspraak tijdstip naderd .
+* Afwezigheid boodschap instellen voor binnen komende email
 * Mail lezen , in kalender kijken/invoeren van gemachtigde personen
 
 Dit document beschrijft de mogelijkheden en de voor- en nadelen.
