@@ -41,23 +41,43 @@ De werking van Gatekeeper kan door de gebruiker zelf worden ingesteld:
 * Elke willekeurige bron - Alle apps kunnen worden uitgevoerd, ongeacht hun bron op het internet.
 
 #### VU policy
+
 Het is mogelijk een profiel aan te bieden dat een veilige Gatekeeper configuratie afdwingt.
 
 #### XProtect/File Quarantine
+
 Bestanden die via het internet binnenkomen of via de email worden verstuurd, worden door macOS voorzien van een quarantine attribuut. Hierdoor kunnen bestanden niet zomaar worden geopend. De bestanden worden ook gecontroleerd op malware, als die aangetroffen wordt krijgt de gebruiker een waarschuwing.
 XProtect blokkeert ook verouderde versies van internet plugins zoals Flash of Java.
 
 XProtect checkt dagelijks of er nieuwe definities zijn en past deze meteen toe als ze beschikbaar komen.
 
+#### Adware
 
+MacOS heeft geen ingebouwd mechanisme om zgn Adware tegen te gaan. Hiervoor kan een third party tool worden ingezet zoals Malwarebytes.
 
+#### Antivirus
 
+De ingebouwde antivirus voorziening heet XProtect (zie boven). Hoewel er veel antivirus software is voor de Mac, is deze over het algemeen van matige kwaliteit. Selecteren van een antivirus/antimalware oplossing voor de Mac moet gebeuren op basis van ervaring met het product in vergelijkbare omgevingen. Bijvoorbeeld IBM (100.000 Macs) installeert *geen* antivirus op de machines.
+
+Zie ook [Overzicht van Endpoint Protection voor macOS](endpoint_protection.md)
+
+#### VU
+
+De VU biedt het programma ClamXav aan via VU Software Center. Gebruikers moeten dit zelf instellen en er is geen centrale reporting.
 
 Schermbeveiling
 ---------------
 
+macOS biedt de mogelijkheid om een wachtwoord te vragen (of een vingerafdruk) als de schermbeveiling wordt ingeschakeld of als de Mac wakker wordt gemaakt uit slaapstand (bijvoorbeeld bij een laptop als de laptop geopend wordt). De gebruiker kan de vertraging instellen op meteen, 5 sec, 1 min, 5 min, 15 min, 1 uur, 4 uur, 8 uur.
+
+#### VU policy
+
+Het is mogelijk een profiel aan te bieden dat een wachtwoord voor schermbeveiling afdwingt en ook de vertagingstijd.
+
 Veilig emailen
 --------------
+
+
 
 
 Referenties
@@ -65,3 +85,5 @@ Referenties
 
 * [Gatekeeper - Apple website](https://support.apple.com/nl-nl/HT202491)
 * [Mac security facts and fallacies](https://blog.malwarebytes.com/101/2017/03/mac-security-facts-and-fallacies/)
+* [ClamXav - antivirus software](https://www.clamxav.com)
+* [IBM: “Iedere Mac bespaart ons 400 euro tegenover Windows-PC”](https://www.onemorething.nl/2016/10/ibm-mac-bespaart-400-euro-tegenover-windows-pc/)
