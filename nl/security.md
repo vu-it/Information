@@ -6,6 +6,11 @@ Updaten
 
 Uit onderzoek is gebleken dat de beste beveiling voor je Mac is er voor te zorgen dat alle software up-to-date is. Dit betekent dat je de laatste versie van het macOS installeert en alle beveiligings- en programma updates. Oudere versies van macOS bevatten kwetsbaarheden die niet meer door Apple gerepareerd worden. Het zelfde geld voor applicaties die op je Mac draaien. De meest kwetsbare zijn natuurlijk de webbrowsers zoals Firefox en Chrome en de web plugins zoals Flash Player en de Java web plugin.
 
+### Apple updates
+
+Apple brengt regelmatig updates uit voor macOS. Gebruikers krijgen een melding dat de nieuwe software beschikbaar is. Er kan ook aangevinkt worden dat de software updates automatisch uitgevoerd moeten worden.
+
+
 ### Software via VU Software Center
 
 Als je software via VU Software Center installeert, wordt deze ook automatisch ge-update. De updates worden eerst getest voordat ze geïnstalleerd worden. Kritieke updates zoals browsers en browser plugins worden via spoed updates geïnstalleerd en zijn vrijwel altijd binnen 24 uur na publicatie beschikbaar.
@@ -72,12 +77,14 @@ macOS biedt de mogelijkheid om een wachtwoord te vragen (of een vingerafdruk) al
 
 #### VU policy
 
-Het is mogelijk een profiel aan te bieden dat een wachtwoord voor schermbeveiling afdwingt en ook de vertagingstijd.
+Het is mogelijk een profiel aan te bieden dat een wachtwoord voor schermbeveiling afdwingt en ook de vertagingstijd instelt.
 
 Veilig emailen
 --------------
 
+'Signed email'
 
+'Encrypted email'
 
 
 Referenties
