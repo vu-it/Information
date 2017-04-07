@@ -5,6 +5,7 @@ Documentatie nederlands
 
 - [Bestanden op de Mac werkplek](nl/files.md)
 - [Backup van de Mac werkplek](nl/backup.md)
+- [Windows programma's uitvoeren op de Mac werkplek](nl/windows_applications.md)
 
 
 Onderwerpen checklist
@@ -14,7 +15,7 @@ Onderwerpen checklist
 - [ ] Beveiliging
 - [x] Bestanden
 - [x] Backup
-- [ ] Windows Applicaties op de Mac
+- [x] Windows Applicaties op de Mac
 - [ ] Printen
 - [ ] Netwerk toegang
 - [ ] Randapparatuur
