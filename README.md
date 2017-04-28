@@ -12,6 +12,8 @@ Onderwerpen checklist
 ---------------------
 
 - [ ] Email
+- [ ] Kalender
+- [ ] Telefonie
 - [ ] Beveiliging
 - [x] Bestanden
 - [x] Backup
