@@ -64,6 +64,10 @@ XProtect blokkeert ook verouderde versies van internet plugins zoals Flash of Ja
 
 XProtect checkt dagelijks of er nieuwe definities zijn en past deze meteen toe als ze beschikbaar komen.
 
+#### Malware Removal Tool (MRT)
+
+macOS heeft een ingebouwde Malware Removal Tool, waarmee geavanceerde malware onschadelijk gemaakt kan worden. De tool wordt door SoftwareUpdate bijgewerkt. Er is geen configuratie van MRT mogelijk.
+
 #### Adware
 
 MacOS heeft geen ingebouwd mechanisme om zgn Adware tegen te gaan. Hiervoor kan een third party tool worden ingezet zoals Malwarebytes.
