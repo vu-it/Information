@@ -3,7 +3,7 @@ Overzicht van Endpoint Protection voor macOS
 *Laatst bijgewerkt: 31 maart 2017*
 
 Hier een overzicht van de Endpoint Protection voor macOS oplossingen met voors en tegens.
-Kernel extensie - dit levert een extra risico op voor het OS
+Kernel extensie - dit levert een extra risico op voor het OS maar is een betere beveiling tegen het omzeilen van de EP door malware.
 
 
 Avast

@@ -21,7 +21,7 @@ Voordelen van Mail, Kalender en Adresboek
 
 
 Nadelen van Mail, Kalender en Adresboek
-* Mail versturen vanuit een functionele mailbox niet mogelijk.
+* Beperkte delegation moglijkheden, bijvoorbeeld email versturen vanuit een functionele mailbox is niet mogelijk.
 
 ### Outlook
 
@@ -31,7 +31,7 @@ Voordelen van Outlook
 * Email, Kalender en Adresboek overzichtelijk in 1 programma
 
 Nadelen van Outlook
-* De gebruikersinterface is gecompliceerder
+* De gebruikersinterface is gecompliceerder dan Mail
 
 ### Webmail
 
