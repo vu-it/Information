@@ -1,4 +1,4 @@
-Email, Kalender en Contacten op de Mac werkplek
+Email, Kalender en Adresboek op de Mac werkplek
 ============================
 
 De VU biedt faciliteiten aan voor Email, Kalender en Contacten, de zogenaamde Exchange omgeving. Deze diensten zijn te gebruiken op de Mac werkplek.
