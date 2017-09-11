@@ -13,8 +13,7 @@ Documentatie nederlands
 Onderwerpen checklist
 ---------------------
 
-- [x] Email
-- [ ] Kalender
+- [x] Email en Kalender
 - [ ] Telefonie
 - [x] Beveiliging
 - [x] Bestanden
