@@ -5,6 +5,7 @@ Documentatie nederlands
 
 - [Bestanden op de Mac werkplek](nl/files.md)
 - [Backup van de Mac werkplek](nl/backup.md)
+- [Beveiliging van de Mac werkplek](nl/security.md)
 - [Email, Kalender en Adresboek op de Mac werkplek](nl/email.md)
 - [Windows programma's uitvoeren op de Mac werkplek](nl/windows_applications.md)
 
@@ -15,7 +16,7 @@ Onderwerpen checklist
 - [x] Email
 - [ ] Kalender
 - [ ] Telefonie
-- [ ] Beveiliging
+- [x] Beveiliging
 - [x] Bestanden
 - [x] Backup
 - [x] Windows Applicaties op de Mac
