@@ -25,4 +25,3 @@ Onderwerpen checklist
 - [ ] Software
 - [ ] Hoe stap ik over van Windows naar Mac?
 - [ ] Wat moet ik doen bij vervanging?
-- [ ] Kees was here
